@@ -1,7 +1,3 @@
 streamlit
-numpy
-pandas
-Image
-openai>=1.16.2
-json
-BaseModel
+openai
+pydantic
