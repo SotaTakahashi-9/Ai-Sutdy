@@ -2,3 +2,6 @@ streamlit
 numpy
 pandas
 Image
+openai
+json
+BaseModel
